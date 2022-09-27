@@ -10,7 +10,6 @@ public class CreateTest
 		System.out.println("----created----");
 		System.out.println("----changes done---");
 		
-		
 	}
 @Test
 public void modify()
