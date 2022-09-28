@@ -9,4 +9,13 @@ public void update()
 {
 	System.out.println("----------updated-------");
 }
+{
+	System.out.println("----------updated-------");
+}
+{
+	System.out.println("----------updated-------");
+}
+{
+	System.out.println("----------updated-------");
+}
 }
